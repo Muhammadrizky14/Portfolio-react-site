@@ -28,7 +28,7 @@ function About() {
               My work focuses on delivering high-quality, accessible designs that meet user needs while
               maintaining clean, efficient code.
             </p>
-            <a href="/public/cv.pdf" download className="download-button">
+            <a href="/cv.pdf" download className="download-button">
               <FileText size={20} />
               Download CV
             </a>
